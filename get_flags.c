@@ -2,10 +2,9 @@
 
 /**
  * get_flags - this calculates active flags
- * @format: the formatted string in which to print the arguments
+ * @format: the formatted string in which the arguments are printed
  * @i: this takes a parameter
- * 
- * Return: Flags:
+ * Return: the flags
  */
 int get_flags(const char *format, int *i)
 {
